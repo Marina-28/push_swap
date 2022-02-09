@@ -140,7 +140,7 @@ gcc -Wall -Wextra -Werror checker.o ft_utils.o ft_utils2.o ft_utils3.o ft_lst.o 
  ```
  %>./checker 3 8 6 4 
  ```
- > Sdin will be opened and you can enter random commands from 'game rules'. Don't forget to press CTRL+D to stop reading.
+ > Stdin will be opened and you can enter random commands from 'game rules'. Don't forget to press CTRL+D to stop reading.
  ```
 %>./checker 3 8 6 4 
  pb
