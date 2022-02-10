@@ -108,7 +108,7 @@ sa
 pa
 %>
 ```
-> Of course, you can enter any integer numbers
+> Of course, you can enter any integers
 ___
 
 # Checker
